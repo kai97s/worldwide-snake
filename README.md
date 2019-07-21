@@ -1,2 +1,0 @@
-# worldwide-snake
-game
